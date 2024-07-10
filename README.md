@@ -1,4 +1,4 @@
-# Mobile Robot Path Planning and Tracking
+# 智能机器人路径规划
 
 This project simulates the process of mobile robot path planning and tracking in a 2D environment.
 
@@ -14,14 +14,11 @@ This project simulates the process of mobile robot path planning and tracking in
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/robot_path_planning.git
+    git clone https://github.com/beautiful-doggie/robot_path_planning.git
     cd robot_path_planning
     ```
 
-2. Install dependencies:
-    ```sh
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 
