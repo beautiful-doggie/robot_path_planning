@@ -18,10 +18,7 @@
     cd robot_path_planning
     ```
 
-2. 安装依赖：
-    ```sh
-    pip install -r requirements.txt
-    ```
+
 
 ## 使用
 
